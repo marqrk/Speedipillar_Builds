@@ -12,3 +12,5 @@ Builds of Speedipillar that you can download and play
 12/20/20203 - Alpha 1.2.2 - Finished Level 6, added a arrows to help clarity, and added graphics to the menus, also added a Level Select menu to make it easier to play specific levels.
 
 2/19/2024 - Alpha 1.3 - Added the first boss fight of the game, the Ladybug boss
+
+2/23/2024 - Alpha 1.3.1 - Added optional control stick controls and set up the framework for Json information tracking. 
