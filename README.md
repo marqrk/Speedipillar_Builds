@@ -16,3 +16,5 @@ Builds of Speedipillar that you can download and play
 2/23/2024 - Alpha 1.3.1 - Added optional control stick controls and set up the framework for Json information tracking. 
 
 2/26/2024 - Alpha 1.3.2 - Fixed issues with the Json info tracking and expanded it to reward the player with stars for each level completed. Also added the option to return to the level select upon dying.
+
+7/21/2024 - Alpha 1.4 - Added New Level, revamped the model to include animations, added new enemy archetype
